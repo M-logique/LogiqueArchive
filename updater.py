@@ -21,7 +21,9 @@ def sort_repos(repos_obj: List[dict]):
     main_text = (
         "<div align='center'>\n"
         "<h1>🌟 Welcome to My Archive of Repositories 🌟</h1>\n"
-        "<p>A curated list of all my public repositories on GitHub.</p>\n"
+        "<p>A list of my old repositories that are very unlikely to ever be updated again.</p>\n"
+        "<p>⚠️ Warning! These repositories were not written professionally and might hurt your eyes while reading the code.</p>\n"
+        "<p>That said, they can still be useful! 🚀</p>\n"
         "</div>\n\n"
         "---\n\n"
         "## 📜 Repository List\n\n"
