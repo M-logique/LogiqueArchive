@@ -52,13 +52,6 @@ def sort_repos(repos_obj: List[dict]):
             f"- **Top Language**: {top_language}\n\n"
         )
 
-    main_text += (
-        "---\n\n"
-        "<div align='center'>\n"
-        "<p>⭐ Feel free to explore, fork, and contribute! ⭐</p>\n"
-        "</div>\n"
-    )
-
     return main_text
 
 
