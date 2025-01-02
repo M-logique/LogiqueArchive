@@ -37,8 +37,3 @@
 - **Forks**: 🍴 0
 - **Top Language**: Python
 
----
-
-<div align='center'>
-<p>⭐ Feel free to explore, fork, and contribute! ⭐</p>
-</div>
