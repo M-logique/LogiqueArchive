@@ -33,10 +33,11 @@ jobs:
     - name: Check for changes
       id: check_changes
       run: |
-        git diff --exit-code || echo "changes"
+        git diff --exit-code || echo "changes" > changes.txt
+        echo "changes=$(cat changes.txt)" >> $GITHUB_ENV
 
     - name: Commit changes
-      if: steps.check_changes.outputs.changes == 'changes'
+      if: ${{ env.changes == 'changes' }}
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
