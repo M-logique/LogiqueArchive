@@ -16,6 +16,13 @@
 - **Forks**: 🍴 0
 - **Top Language**: JavaScript
 
+### 📂 [AntiMahan](https://github.com/LogiqueArchive/AntiMahan)
+- **Description**: یه پروژه برای جلوگیری کردن از کار هایی که ماهان انجام میده یا احتمال داره در آینده انجام بده
+- **Created At**: 2025-01-28 10:35:22 UTC
+- **Stars**: ⭐ 0
+- **Forks**: 🍴 0
+- **Top Language**: Python
+
 ### 📂 [Atomic](https://github.com/LogiqueArchive/Atomic)
 - **Description**: 🕶 ATOMIC Tool is (not) a professional attacking tool that support abnormal options.
 - **Created At**: 2023-09-27 16:01:53 UTC
