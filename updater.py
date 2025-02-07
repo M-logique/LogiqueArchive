@@ -31,6 +31,7 @@ def sort_repos(repos_obj: List[dict]):
 
     for repo in repos_obj:
         repo_name = repo.get('name', 'Unknown')
+        if repo_name == "LogiqueArchive": continue
         description = repo.get('description', 'No description available.')
         created_at = repo.get('created_at', None)
         stars = repo.get('stargazers_count', 0)
