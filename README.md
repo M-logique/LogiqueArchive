@@ -34,7 +34,7 @@
 - **Description**: Fast Discord Nuker written in python 
 - **Created At**: 2024-01-03 08:57:10 UTC
 - **Stars**: ⭐ 28
-- **Forks**: 🍴 12
+- **Forks**: 🍴 13
 - **Top Language**: Python
 
 ### 📂 [DM-Spammer-Bot](https://github.com/LogiqueArchive/DM-Spammer-Bot)
