@@ -41,6 +41,6 @@
 - **Description**: A simple discord bot that helps you send a lot of direct messages to someone
 - **Created At**: 2024-07-16 10:50:55 UTC
 - **Stars**: ⭐ 5
-- **Forks**: 🍴 5
+- **Forks**: 🍴 6
 - **Top Language**: Python
 
