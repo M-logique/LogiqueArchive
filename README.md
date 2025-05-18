@@ -33,7 +33,7 @@
 ### 📂 [Discord-Nuker](https://github.com/LogiqueArchive/Discord-Nuker)
 - **Description**: Fast Discord Nuker written in python 
 - **Created At**: 2024-01-03 08:57:10 UTC
-- **Stars**: ⭐ 32
+- **Stars**: ⭐ 33
 - **Forks**: 🍴 13
 - **Top Language**: Python
 
