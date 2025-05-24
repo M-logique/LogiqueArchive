@@ -26,8 +26,8 @@
 ### 📂 [Atomic](https://github.com/LogiqueArchive/Atomic)
 - **Description**: 🕶 ATOMIC Tool is (not) a professional attacking tool that support abnormal options.
 - **Created At**: 2023-09-27 16:01:53 UTC
-- **Stars**: ⭐ 46
-- **Forks**: 🍴 25
+- **Stars**: ⭐ 47
+- **Forks**: 🍴 26
 - **Top Language**: Python
 
 ### 📂 [Discord-Nuker](https://github.com/LogiqueArchive/Discord-Nuker)
