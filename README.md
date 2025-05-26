@@ -40,7 +40,7 @@
 ### 📂 [DM-Spammer-Bot](https://github.com/LogiqueArchive/DM-Spammer-Bot)
 - **Description**: A simple discord bot that helps you send a lot of direct messages to someone
 - **Created At**: 2024-07-16 10:50:55 UTC
-- **Stars**: ⭐ 5
+- **Stars**: ⭐ 6
 - **Forks**: 🍴 7
 - **Top Language**: Python
 
